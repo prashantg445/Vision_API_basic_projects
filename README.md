@@ -1,2 +1,2 @@
-# Vision_API_basic_projects
-This repo is just about basic projects done using Vision API
+# Vision_API_basic_project
+This repo is just for self referencing a Vision API project.
